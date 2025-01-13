@@ -1,0 +1,2 @@
+ts,uid,id.orig_h,id.orig_p,id.resp_h,id.resp_p,proto,service,duration,orig_bytes,resp_bytes,conn_state,local_orig,local_resp,missed_bytes,history,orig_pkts,orig_ip_bytes,resp_pkts,resp_ip_bytes,tunnel_parents,label,detailed-label
+1547150789.06721,CzsY0D4B96NTr8m7ld,192.168.1.199,59222,46.101.251.172,80,tcp,http,1.686784,149,171750,SF,,,11584,ShADadttfF,122,7741,122,178102,,Malicious,C&C-FileDownload
