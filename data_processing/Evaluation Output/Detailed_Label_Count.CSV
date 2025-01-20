@@ -1,0 +1,18 @@
+,,,
+Attack,Count,count>800,Reason for dropping
+C&C,21995,TRUE,
+-,30861143,TRUE,Unknown label
+PartOfAHorizontalPortScan,213852924,TRUE,
+DDoS,19538713,TRUE,
+Okiru,60990708,TRUE,
+C&C-HeartBeat,33673,TRUE,
+PartOfAHorizontalPortScan-Attack,5,FALSE,Less than 800 entries
+Attack,9398,TRUE,
+C&C-HeartBeat-FileDownload,11,FALSE,Less than 800 entries
+C&C-HeartBeat-Attack,834,TRUE,
+C&C-PartOfAHorizontalPortScan,888,TRUE,
+C&C-FileDownload,53,FALSE,Less than 800 entries
+FileDownload,18,FALSE,Less than 800 entries
+C&C-Mirai,2,FALSE,Less than 800 entries
+C&C-Torii,30,FALSE,Less than 800 entries
+Okiru-Attack,3,FALSE,Less than 800 entries

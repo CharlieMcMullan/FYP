@@ -1,0 +1,10 @@
+"1533042911.474174","C5JLGOoxIw2dBZt47","192.168.100.113,123","81.2.254.224,123","udp","","0.00549,48.0","48.0","SF","","","0","Dd","1","76","1","76","(empty)","Benign","-",
+
+"1536241151.35095","C9m6XdPw0pRf5lNa1","192.168.100.111","18344,156.212.84.219","52869","tcp","","4e-06","0.0","0.0","S0","","","0","S","2","80","0","0","-","Malicious","DDoS",
+
+"1536232599.053273","C0lARQ2hM1UUe4aSrg","192.168.100.111","17832","156.112.51.76","37215","tcp","","1e-06","0.0","0.0","S0","","","0","S","2","80","0","0","-","Malicious","Okiru",
+
+"1536229808.84214","CTL3WP1XmST9PFud2","192.168.100.111","17576","53.178.3.247","8081","tcp","","1e-06","0.0","0.0","S0","","","0","S","2","80","0","0","-","Malicious","PartOfAHorizontalPortScan",
+"ts","uid","id.orig_h","id.orig_p","id.resp_h","id.resp_p","proto","service","duration","orig_bytes","resp_bytes","conn_state","local_orig","local_resp","missed_bytes","history","orig_pkts","orig_ip_bytes","resp_pkts","resp_ip_bytes","tunnel_parents","label","detailed-label"
+
+"1533042911.474174","C5JLGOoxIw2dBZt47","192.168.100.113,123","81.2.254.224,123","udp","","0.00549,48.0","48.0","SF","","","0","Dd","1","76","1","76","(empty)","Benign","-","1536241151.35095","C9m6XdPw0pRf5lNa1","192.168.100.111","18344,156.212.84.219","52869","tcp","","4e-06","0.0","0.0","S0","","","0","S","2","80","0","0","-","Malicious","DDoS","1536232599.053273","C0lARQ2hM1UUe4aSrg","192.168.100.111","17832","156.112.51.76","37215","tcp","","1e-06","0.0","0.0","S0","","","0","S","2","80","0","0","-","Malicious","Okiru","1536229808.84214","CTL3WP1XmST9PFud2","192.168.100.111","17576","53.178.3.247","8081","tcp","","1e-06","0.0","0.0","S0","","","0","S","2","80","0","0","-","Malicious","PartOfAHorizontalPortScan","ts","uid","id.orig_h","id.orig_p","id.resp_h","id.resp_p","proto","service","duration","orig_bytes","resp_bytes","conn_state","local_orig","local_resp","missed_bytes","history","orig_pkts","orig_ip_bytes","resp_pkts","resp_ip_bytes","tunnel_parents","label","detailed-label"
