@@ -1,7 +1,0 @@
-https://www.youtube.com/watch?v=pRu47GKQX_A
-
-in terminal of env 
- conda install -c nvidia cuda-nvcc
- conda install -c "nvidia/label/cuda-11.3.0" cuda-nvcc
- conda install -c anaconda cudatoolkit
- conda install pytorch torchvision torchaudio pytorch-cuda -c pytorch -c nvidia

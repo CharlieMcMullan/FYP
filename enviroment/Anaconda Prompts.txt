@@ -1,5 +1,0 @@
-D:
-cd D:\FYP\FYP Practical\Enviroment
-conda env create -f environment.yml
-anaconda-navigator
-
